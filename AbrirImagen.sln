@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbrirImagen", "AbrirImagen.csproj", "{9B78EDF1-E357-4F69-A735-5BC300D1981B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B78EDF1-E357-4F69-A735-5BC300D1981B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B78EDF1-E357-4F69-A735-5BC300D1981B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B78EDF1-E357-4F69-A735-5BC300D1981B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B78EDF1-E357-4F69-A735-5BC300D1981B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC25F74F-641B-4554-BC4E-A5B1CB6CC9A8}
+	EndGlobalSection
+EndGlobal
